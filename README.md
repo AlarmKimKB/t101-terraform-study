@@ -137,3 +137,6 @@ We are studying using Terraform Up and Running.
 03_stage/01_mysql$ terraform init && plan && apply -auto-approve
 03_stage/02_web$ terraform init && plan && apply -auto-approve
 ```
+
+### 6. Week 6
+* 민감정보 숨기기
